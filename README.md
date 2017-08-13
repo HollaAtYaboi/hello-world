@@ -6,5 +6,5 @@ Don't mind me ; just a newbie trying to <br>
 outdo every one else in this vast world of <br>
 <strong> CODING!! </strong>
 
-PS: If you are lost or aren't to sure about <br>
+PS: If you are lost or aren't too sure about <br>
 coding then don't hesitate to colab with me. :)
