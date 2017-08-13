@@ -1,7 +1,10 @@
 # hello-world
 An experimental. Just trying to learn the basics/have fun
 
-Hi guyz!!
+Hi guyz!!<br>
 Don't mind me ; just a newbie trying to <br>
 outdo every one else in this vast world of <br>
-<strong> coding </strong>
+<strong> CODING!! </strong>
+
+PS: If you are lost or aren't to sure about <br>
+coding then don't hesitate to colab with me. :)
